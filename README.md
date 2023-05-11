@@ -1,4 +1,4 @@
-Desafio Back-end - BRQ
+Integrando
 ====
 
 ## Descrição:
@@ -40,16 +40,13 @@ A BRQ possui a necessidade de disponibilizar uma api restfull para realizar o cr
 
     A API deverá ter um swagger
     Teste unitário
-    Utilizar uma estrutura de dados a sua escolha para simular a base de dados em memória
+    Utilizar o banco h2 para simular a base de dados em memória
     Utilizar a linguagem Java, versão 11, Maven
-    Subir a aplicação utilizando o Docker
-    Aplicação deverá conter um Readme contendo instruções de como realizar o build e rodar a Aplicação
 
 ## Diferencial
 
     No readme separe uma sessão para explicar a arquitetura da api
     Tenha em mente conceitos de SOLID e clean architecture
-    Esteira de CI/CD no github (exemplo Travis CI)
 
 ## Como submeter?
 
